@@ -10,9 +10,9 @@
 # Train/val/test sets as 1) dir: path/to/imgs, 2) file: path/to/imgs.txt, or 3) list: [path/to/imgs1, path/to/imgs2, ..]
 path: custom_dataset.yaml  # dataset root dir
 path: /content/Deteccao-com-a-rede-yolo/dataset  # dataset root dir
-train: /content/Deteccao-com-a-rede-yolo/dataset/train/images  # train images (relative to 'path')
-valid: /content/Deteccao-com-a-rede-yolo/dataset/valid/images  # val images (relative to 'path')
-test: /content/Deteccao-com-a-rede-yolo/dataset/test/images  # test images (relative to 'path')
+train: dataset/train/images  # train images (relative to 'path')
+valid: dataset/valid/images  # val images (relative to 'path')
+test: dataset/test/images  # test images (relative to 'path')
 
 # Classes
 names:
