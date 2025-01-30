@@ -1,6 +1,6 @@
 # DIO-Projetos
 
-'#FF0000' PROJETO EM CONSTRUÇÃO... 
+PROJETO EM CONSTRUÇÃO... 
 
 
 
