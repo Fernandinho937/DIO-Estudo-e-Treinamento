@@ -4,6 +4,12 @@ PROJETO EM CONSTRUÇÃO...
 
 
 
+
+
+
+
+
+
 # Descrição do Projeto
 O objetivo deste projeto é treinar e implementar uma rede neural convolucional utilizando o modelo YOLO (You Only Look Once) para a detecção de formigas em imagens. Este trabalho visa desenvolver um sistema eficiente para identificar e localizar formigas em diferentes cenários, contribuindo para estudos em ecologia, controle de pragas ou monitoramento ambiental.
 
